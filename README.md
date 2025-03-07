@@ -1,5 +1,5 @@
 [![pipeline status](https://gitlab.linphone.org/BC/public/linphone-sdk/badges/master/pipeline.svg)](https://gitlab.linphone.org/BC/public/linphone-sdk/commits/master)
-!
+!!
 # Linphone-SDK
 
 Linphone-SDK is a project that bundles Liblinphone and its dependencies as git submodules, in the purpose of simplifying
