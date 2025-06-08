@@ -1,5 +1,5 @@
 # Linphone-SDK
-Linphone-SDK is a project that bundles Liblinphone and its dependencies as git submodules, in the purpose of simplifying the compilation and packaging of the whole Liblinphone suite, comprising Mediastreamer2, Belle-sip, oRTP and many others.!!!!!!
+Linphone-SDK is a project that bundles Liblinphone and its dependencies as git submodules, in the purpose of simplifying the compilation and packaging of the whole Liblinphone suite, comprising Mediastreamer2, Belle-sip, oRTP and many others.!!!!!!!
 Its compilation produces a SDK suitable to create applications running on top of these components!
 
 The submodules that are not developed or maintained by the Linphone team are grouped in the external/ directory.
